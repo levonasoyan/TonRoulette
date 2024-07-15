@@ -11,6 +11,17 @@ const Home = () => {
         width="100%"
         height="100vh"
       >
+        <Box display="flex" justifyContent="center">
+          <Typography
+            fontWeight={500}
+            fontSize={12}
+            textAlign="center"
+            width="90%"
+          >
+            Bet ton until the end of this week and we will randomly pick a
+            person who will get all the Ton in the current pool
+          </Typography>
+        </Box>
         <Box m="100px 0px">
           <Typography fontWeight={400}>Current Pool</Typography>
           <Typography
