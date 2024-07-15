@@ -47,7 +47,7 @@ const Home = () => {
             m="20px 0px"
             width="80%"
           >
-            By clicking this button you will bet 5$ work of TON <br></br> (4$
+            By clicking this button you will bet 5$ worth of TON <br></br> (4$
             will go to pool)
           </Typography>
 
