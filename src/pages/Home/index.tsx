@@ -5,6 +5,13 @@ const Home = () => {
     <>
       <Box>
         <Typography>Hello</Typography>
+        <Typography>Hello</Typography>
+
+        <Typography>Hello</Typography>
+
+        <Typography>Hello</Typography>
+
+        <Typography>Hello</Typography>
       </Box>
     </>
   );
