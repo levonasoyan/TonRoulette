@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/TonRoulette/static/js/main.37e87a76.js",
+    "main.css": "/TonRoulette/static/css/main.a3105b23.css",
+    "main.js": "/TonRoulette/static/js/main.00f39240.js",
     "index.html": "/TonRoulette/index.html",
-    "main.37e87a76.js.map": "/TonRoulette/static/js/main.37e87a76.js.map"
+    "main.a3105b23.css.map": "/TonRoulette/static/css/main.a3105b23.css.map",
+    "main.00f39240.js.map": "/TonRoulette/static/js/main.00f39240.js.map"
   },
   "entrypoints": [
-    "static/js/main.37e87a76.js"
+    "static/css/main.a3105b23.css",
+    "static/js/main.00f39240.js"
   ]
 }
